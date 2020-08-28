@@ -1,0 +1,22 @@
+{
+  "name": "node-http",
+  "version": "1.0.0",
+  "description": "Node HTTP Module Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bclead3/week1_nodejs.git"
+  },
+  "keywords": [
+    "NodeJS"
+  ],
+  "author": "Ben Leadholm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bclead3/week1_nodejs/issues"
+  },
+  "homepage": "https://github.com/bclead3/week1_nodejs#readme"
+}
